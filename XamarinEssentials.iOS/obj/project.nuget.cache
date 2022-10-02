@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vV98fFXxHwHnEHeyTYcmBKF8SleFKU+FSzD9lJUKfRNHlezDZ1XdvM0zTC35gVHPS/PnsuHml1dZ9m1GJ1ZPsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rog Zephyrus\\source\\repos\\XamarinEssentials\\XamarinEssentials.iOS\\XamarinEssentials.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rog Zephyrus\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Rog Zephyrus\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Rog Zephyrus\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
